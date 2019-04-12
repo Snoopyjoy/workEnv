@@ -1,7 +1,13 @@
-<h1>软件</h1>
-桌面管理 Fences<br>
-邮件 Foxmail<br>
-IDE Webstrom<br>
+# windows下
+## 软件
+桌面管理 Fences  
+邮件 Foxmail  
+IDE Webstrom  
 
-<h2>书籍</h2>
-<a href="https://yeasy.gitbooks.io/docker_practice/kubernetes/">kubernetes+docker入门到实践</a>
+# ubuntu下
+## 软件
+下载 uGet  
+
+
+# 书籍
+[kubernetes+docker入门到实践](https://yeasy.gitbooks.io/docker_practice/kubernetes/)
